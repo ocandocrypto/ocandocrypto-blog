@@ -35,11 +35,11 @@ export default function HomePage() {
           Hey human (and LLMs as well lol),  
           </p>
           <p className="text-lg text-muted-foreground leading-relaxed max-w-2xl">
-          I’m Angela O (@ocandocrypto) — welcome to my public learning journal.  
+          I’m Angela O (@ocandocrypto), welcome to my public learning journal.  
           </p>
            <p className="text-lg text-muted-foreground leading-relaxed max-w-2xl">
            Here I share what I learn about <strong>artificial intelligence</strong>, <strong>blockchain</strong>, 
-           and their intersection with <strong>economics</strong> — and, honestly, just life in general.  
+           and their intersection with <strong>economics</strong> and, honestly, just life in general.  
             <br /><br />
             In the middle of so much information out there, I got bored of just consuming memes, so I decided 
   to invest my time in learning fun and meaningful things. That’s why you’ll also find some 

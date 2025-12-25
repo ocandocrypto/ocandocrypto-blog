@@ -3,7 +3,7 @@ import { LayoutWrapper } from "@/components/layout-wrapper"
 const projects = [
   {
     title: "Soon to be added...",
-    description: "I’ll be sharing projects I’m working on here — from AI experiments to DeFi tools and small coding adventures.",
+    description: "I’ll be sharing projects I’m working on here: from AI experiments to DeFi tools and small coding adventures.",
     status: "Coming Soon",
     link: "#",
     tags: ["AI", "DeFi", "Economics"],

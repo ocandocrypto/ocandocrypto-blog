@@ -4,11 +4,18 @@ import { LayoutWrapper } from "@/components/layout-wrapper"
 // Mock data - replace with your actual blog posts
 const allPosts = [
   {
+    slug: "consistency-and-attention",
+    title: "Consistency and Attention",
+    date: "2025-12-25",
+    excerpt: "Reflexiones sobre la consistencia y atención. Un autoanálisis sobre por qué me cuesta mantener hábitos cuando no hay urgencia, y cómo la atención se ha convertido en una de mis nuevas obsesiones y forma de rebeldía en esta nueva era.",
+  },
+  {
     slug: "why-i-decided-to-learn-in-public",
     title: "Why I Decided to Learn in Public",
     date: "2025-10-02",
     excerpt: "I used to write endless goals but kept delaying them. Quitting social media reminded me to stay curious, keep learning, and rebuild my focus. This journal keeps me accountable.  ",
   },
+  
 ]
 
 export default function LearningsPage() {
