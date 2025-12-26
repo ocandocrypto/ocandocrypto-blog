@@ -29,7 +29,7 @@ Sigo con el objetivo de escribir acá cada dos semanas. Tengo algunos proyectos 
 
 ¿Para el mundo? Honestly, no. Con que este espacio sea mi propio accountability partner, estoy más que satisfecha. Siento que mi necesidad de mostrar, de validar afuera, bajó muchísimo desde que solté las redes sociales y ese impulso constante de publicar y compartirlo todo.
 
-A veces incluso pienso que, en esta era, la atención es un acto de rebeldía. Prestar atención te da espacio. Te permite percibirte, aprender de ti, evaluarte sin ruido.
+A veces incluso pienso que, en esta era, la atención (estar realmente presente) es un acto de rebeldía. Ojo, no hablo de llamar la atención, sino de sostenerla. De mirar con intención. Prestar atención te da espacio. Te permite percibirte, responder a las preguntas de tu cabeza con calma, sin ruido. Pero también te abre hacia afuera. Te deja ver a otros, notar lo que pasa alrededor, coleccionar recuerdos pequeños mientras el resto está haciendo doomscrolling en el celular.
 
 Así que este texto es un reminder. Aunque hace tres meses me prometí escribir más y no lo hice, siempre es buen momento para volver. Y, en mi caso, para trabajar conscientemente en dos cosas que atraviesan muchos de mis sueños y ambiciones: consistencia y atención.
 
