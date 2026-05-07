@@ -2,6 +2,23 @@ import { LayoutWrapper } from "@/components/layout-wrapper"
 import Link from "next/link"
 
 const posts: Record<string, any> = {
+  "authenticity-and-worthiness-as-resistance": {
+    title: "Authenticity and Worthiness as Resistance",
+    date: "2026-05-07",
+    content: `
+“In this world, choosing authenticity and worthiness is an absolute act of resistance.”
+
+Lo leí hace días mientras esperaba abordar un vuelo de regreso a casa, y me tomó días entenderlo.
+
+Hoy, escuchando un audio de alguien que me importa mucho, me di cuenta de que, en un mundo de sobreinformación y constantes conflictos, esperar lo mejor de los demás, ser vulnerable, tener conversaciones difíciles, arreglar lo que está frágil y cultivar las relaciones que te importan con intención es, en esencia, un acto de resistencia.
+
+Pero también la mejor inversión. Un ROI que hace compound en tu vida.
+
+Y no es más que una elección.
+
+Decirlo suena lindo; aplicarlo cuesta un montón. Pero el sentimiento está tremendo, y es un gran privilegio vivir con emoción. Más aún, rodearse de personas que tengan esa misma intención.
+    `,
+  },
 
   "consistency-and-attention": {
     title: "Consistency and Attention",

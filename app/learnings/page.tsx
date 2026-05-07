@@ -4,6 +4,12 @@ import { LayoutWrapper } from "@/components/layout-wrapper"
 // Mock data - replace with your actual blog posts
 const allPosts = [
   {
+    slug: "authenticity-and-worthiness-as-resistance",
+    title: "Authenticity and Worthiness as Resistance",
+    date: "2026-05-07",
+    excerpt: "Una pequeña reflexión sobre vulnerabilidad, conversaciones difíciles, relaciones cultivadas con intención y la decisión diaria de esperar lo mejor de los demás.",
+  },
+  {
     slug: "consistency-and-attention",
     title: "Consistency and Attention",
     date: "2025-12-25",
