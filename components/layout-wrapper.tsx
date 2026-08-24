@@ -1,4 +1,5 @@
 import type React from "react"
+import Link from "next/link"
 import { Navigation } from "./navigation"
 
 export function LayoutWrapper({ children }: { children: React.ReactNode }) {
@@ -12,7 +13,15 @@ export function LayoutWrapper({ children }: { children: React.ReactNode }) {
           </aside>
 
           {/* Main Content */}
-          <main className="min-w-0">{children}</main>
+          <main className="min-w-0">
+            {children}
+
+            <footer className="mt-20 pt-6 border-t border-border text-sm text-muted-foreground">
+              <Link href="/privacy" className="hover:text-foreground transition-colors">
+                Privacy
+              </Link>
+            </footer>
+          </main>
         </div>
       </div>
     </div>
