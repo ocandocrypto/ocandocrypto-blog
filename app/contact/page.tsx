@@ -18,13 +18,12 @@ export default function ContactPage() {
           <div className="space-y-6 text-lg leading-relaxed max-w-2xl">
             <p className="text-foreground">
               The best way to reach me is through my public profiles below. I read and
-              reply to messages on X and LinkedIn, usually within a few days.
+              reply to messages on X and LinkedIn.
             </p>
             <p className="text-muted-foreground">
-              If it's something code-related — a bug in this site, a question about a
-              project, or a pull request — opening an issue or PR on GitHub works best,
-              since it keeps the conversation public and searchable for anyone else with
-              the same question.
+              If it's something code-related, a bug in this site, a question about a
+              project, or a pull request, opening an issue or PR on GitHub works best.
+              But feel free to reach out to me on my social media accounts too.
             </p>
           </div>
         </div>
