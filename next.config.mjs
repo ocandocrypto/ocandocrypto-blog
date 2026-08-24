@@ -9,6 +9,14 @@ const nextConfig = {
   images: {
     unoptimized: true,
   },
+  async headers() {
+    return [
+      {
+        source: "/:path*",
+        headers: [{ key: "Vary", value: "Accept, Accept-Encoding" }],
+      },
+    ]
+  },
 }
 
 export default nextConfig

@@ -24,6 +24,8 @@ const allPosts = [
   
 ]
 
+export const dynamic = "force-dynamic"
+
 export default function LearningsPage() {
   return (
     <LayoutWrapper>
