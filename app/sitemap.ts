@@ -1,11 +1,5 @@
 import type { MetadataRoute } from "next"
-import { SITE_URL } from "@/lib/site"
-
-const learningSlugs = [
-  "authenticity-and-worthiness-as-resistance",
-  "consistency-and-attention",
-  "why-i-decided-to-learn-in-public",
-]
+import { SITE_URL, LEARNING_SLUGS } from "@/lib/site"
 
 export default function sitemap(): MetadataRoute.Sitemap {
   const staticRoutes: MetadataRoute.Sitemap = [
@@ -17,7 +11,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     { url: `${SITE_URL}/privacy`, changeFrequency: "yearly", priority: 0.2 },
   ]
 
-  const postRoutes: MetadataRoute.Sitemap = learningSlugs.map((slug) => ({
+  const postRoutes: MetadataRoute.Sitemap = LEARNING_SLUGS.map((slug) => ({
     url: `${SITE_URL}/learnings/${slug}`,
     changeFrequency: "monthly",
     priority: 0.5,

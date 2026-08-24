@@ -8,3 +8,9 @@ export const SOCIAL_LINKS = {
   linkedin: "https://www.linkedin.com/in/angelaocando/",
   telegram: "https://t.me/ocandocrypto",
 }
+
+export const LEARNING_SLUGS = [
+  "authenticity-and-worthiness-as-resistance",
+  "consistency-and-attention",
+  "why-i-decided-to-learn-in-public",
+]
