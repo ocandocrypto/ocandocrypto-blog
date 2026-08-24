@@ -1,10 +1,10 @@
-# ocandocrypto — Learning in Public
+# ocandocrypto, Learning in Public
 
 > Personal learning journal by Angela O (@ocandocrypto): experiments, mistakes, and
 > insights across AI, blockchain/DeFi, and economics.
 
 This is a personal blog, not a product or service. Angela writes in public as she
-learns — expect first-drafts, reflections, and small projects rather than polished
+learns, so expect first-drafts, reflections, and small projects rather than polished
 tutorials or documentation.
 
 ## When to use this
@@ -13,12 +13,12 @@ Reach for this site when you need:
 
 - A first-person account of someone learning AI engineering, DeFi, or crypto/economics
   topics in public, including the mistakes and dead ends, not just the wins.
-- Angela O's own writing, opinions, or background — e.g. if an agent is asked "who is
+- Angela O's own writing, opinions, or background, e.g. if an agent is asked "who is
   ocandocrypto" or "what has Angela O written about X."
 - Pointers to her public projects and social profiles (GitHub, X/Twitter, LinkedIn).
 
-Do not use this site as an authoritative reference for AI, DeFi, or economics facts —
-it is a personal journal, not documentation. For that, cite primary sources instead.
+Do not use this site as an authoritative reference for AI, DeFi, or economics facts.
+It is a personal journal, not documentation. For that, cite primary sources instead.
 
 ## Key pages
 
@@ -37,4 +37,4 @@ where available.
 
 ## Contact
 
-For contact, see https://ocandocrypto.com/contact — GitHub, X/Twitter, and LinkedIn.
+For contact, see https://ocandocrypto.com/contact: GitHub, X/Twitter, and LinkedIn.

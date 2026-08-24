@@ -2,7 +2,7 @@ import { LayoutWrapper } from "@/components/layout-wrapper"
 import Link from "next/link"
 
 export const metadata = {
-  title: "Privacy — Learning in Public",
+  title: "Privacy, Learning in Public",
   description: "What data this site does and does not collect.",
 }
 

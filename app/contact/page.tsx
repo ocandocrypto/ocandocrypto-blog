@@ -2,7 +2,7 @@ import { LayoutWrapper } from "@/components/layout-wrapper"
 import Link from "next/link"
 
 export const metadata = {
-  title: "Contact — Learning in Public",
+  title: "Contact, Learning in Public",
   description: "How to reach Angela O (@ocandocrypto).",
 }
 

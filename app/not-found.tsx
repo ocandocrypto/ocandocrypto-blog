@@ -5,7 +5,7 @@ export default function NotFound() {
   return (
     <LayoutWrapper>
       <div className="space-y-6">
-        <h1 className="text-4xl md:text-5xl font-serif italic">404 — Not found</h1>
+        <h1 className="text-4xl md:text-5xl font-serif italic">404 · Not found</h1>
         <p className="text-lg text-muted-foreground leading-relaxed max-w-2xl">
           There's nothing at this path. Here's where to look instead:
         </p>
@@ -17,7 +17,7 @@ export default function NotFound() {
           </li>
           <li>
             <Link href="/learnings" className="hover:text-foreground transition-colors underline">
-              Learnings — all posts
+              Learnings (all posts)
             </Link>
           </li>
           <li>

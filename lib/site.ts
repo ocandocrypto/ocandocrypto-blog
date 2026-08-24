@@ -1,5 +1,5 @@
 export const SITE_URL = "https://ocandocrypto.com"
-export const SITE_NAME = "Learning in Public — ocandocrypto"
+export const SITE_NAME = "Learning in Public, ocandocrypto"
 export const SITE_AUTHOR = "Angela O"
 
 export const SOCIAL_LINKS = {
