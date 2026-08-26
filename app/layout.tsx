@@ -5,6 +5,7 @@ import { GeistSans } from "geist/font/sans"
 import { GeistMono } from "geist/font/mono"
 import { Analytics } from "@vercel/analytics/next"
 import { Suspense } from "react"
+import { GoogleTag } from "@/components/google-tag"
 import { SITE_URL, SITE_AUTHOR, SOCIAL_LINKS } from "@/lib/site"
 import "./globals.css"
 
@@ -63,6 +64,7 @@ export default function RootLayout({
           dangerouslySetInnerHTML={{ __html: JSON.stringify(personJsonLd) }}
         />
         <Suspense fallback={null}>{children}</Suspense>
+        <GoogleTag />
         <Analytics />
       </body>
     </html>
