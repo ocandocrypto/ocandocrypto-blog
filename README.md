@@ -12,10 +12,4 @@ If for some reason you want to use this template, you can run it with **pnpm** o
 
 ## Analytics
 
-To enable Google tag tracking, add this environment variable before building or deploying:
-
-```bash
-NEXT_PUBLIC_GOOGLE_TAG_ID=G-XXXXXXXXXX
-```
-
-You can use a Google tag ID such as `G-...` or `GT-...`. If the variable is not set, the site skips the Google scripts.
+Google tag tracking is configured with tag ID `G-B4V3NCPTDZ`.

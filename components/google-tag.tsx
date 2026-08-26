@@ -1,12 +1,8 @@
 import Script from "next/script"
 
-const googleTagId = process.env.NEXT_PUBLIC_GOOGLE_TAG_ID
+const googleTagId = "G-B4V3NCPTDZ"
 
 export function GoogleTag() {
-  if (!googleTagId) {
-    return null
-  }
-
   return (
     <>
       <Script src={`https://www.googletagmanager.com/gtag/js?id=${googleTagId}`} strategy="afterInteractive" />
